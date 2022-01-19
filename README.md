@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Captain-not-so-obvious
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate the best way that I can
+- 🌱 I’m currently learning JavaScript, HTML5 e CSS3
+- 💞️ I’m looking to improve my skills in programming
 - 📫 How to reach me fillipemoreira979@gmail.com
 
 <!---
