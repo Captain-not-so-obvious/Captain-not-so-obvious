@@ -23,5 +23,5 @@
   <a href="mailto:fillipemoreira979@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
-      ![Snake animation](https://github.com/Captain-not-so-obvious/Captain-not-so-obvious/blob/output/github-contribution-grid-snake.svg)
+      ![Snake animation](https://github.com/Captain-not-so-obvious/README.md/blob/output/github-contribution-grid-snake.svg)
 
