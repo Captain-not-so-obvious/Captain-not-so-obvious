@@ -1,5 +1,6 @@
-- 👋 Olá, eu sou Fillipe!
-- 🌱 Hoje estou aprendendo JavaScript, HTML5, CSS3 e React
+<h1> 🖖<strong>Olá!</strong> <br></h1>
+<h2>Eu sou o Fillipe! ✌	</h2>
+- 🌱 Hoje estou aprendendo JavaScript, HTML5, CSS3 e React <br>
 
 <div align="center">
   <a href="https://github.com/Captain-not-so-obvious">
