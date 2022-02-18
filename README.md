@@ -24,6 +24,3 @@
 </div>
   
    ![Snake animation](https://github.com/Captain-not-so-obvious/Captain-not-so-obvious/README.md/blob/output/github-contribution-grid-snake.svg)
-  
- 
-
