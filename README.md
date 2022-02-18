@@ -21,8 +21,9 @@
   <a href="https://www.linkedin.com/in/fillipe-moreira-33aa83180/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/22nkaf7cp5g3g4bd5si5ixo7q" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href="mailto:fillipemoreira979@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-       ![Snake animation](https://github.com/Captain-not-so-obvious/Captain-not-so-obvious/README.md/blob/output/github-contribution-grid-snake.svg)
 </div>
+  
+   ![Snake animation](https://github.com/Captain-not-so-obvious/Captain-not-so-obvious/README.md/blob/output/github-contribution-grid-snake.svg)
   
  
 
