@@ -1,18 +1,12 @@
 <h1> 🖖<strong>Olá!</strong> <br></h1>
 <h2>Eu sou o Fillipe! ✌	</h2>
-- 🌱 Hoje eu desenvolvo nas linguagens JavaScript, HTML5, CSS3 e também faço alguma coisa com o Bootstrap <br>
-
-<div align="center">
-  <a href="https://github.com/Captain-not-so-obvious">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Captain-not-so-obvious&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captain-not-so-obvious&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
+- 🌱 Hoje eu desenvolvo nas linguagens JavaScript, HTML5, CSS3, Python, PHP e também sei um pouco de COBOL, também trabalho com o framework Bootstrap<br>
 
 <div style="display: inline-block"><br>
   <img align="center" alt="JavaScript logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="HTML5 logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="CSS3 logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
-  <img align="center" alt="Bootstrap logo" height="30" width="40" src="img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="Bootstrap logo" height="30" width="40" src="img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg](https://www.flaticon.com/br/icone-gratis/js_5968292?term=javascript&page=1&position=3&origin=search&related_id=5968292)">
 </div>
 
 ##
