@@ -1,24 +1,16 @@
 # 🖖 **Olá!** 
 ## Eu sou o Fillipe! ✌
 
-💻 Sou apaixonado por tecnologia e por aprender coisas novas todos os dias. Minha jornada me levou a explorar várias linguagens e ferramentas, e atualmente trabalho com **HTML, CSS, JavaScript, Bootstrap e Python**.  
+💻 Sou apaixonado por tecnologia e por aprender coisas novas todos os dias. Minha jornada me levou a explorar várias linguagens e ferramentas, e atualmente trabalho com **HTML, CSS, JavaScript, Python, COBOL, Ruby e C++**.  
 
-✨ Além disso, tenho experiência com **COBOL, Ruby e C++**, o que me permite navegar tanto pelo universo das tecnologias modernas quanto pelas linguagens mais clássicas.  
+✨ Além disso, tenho experiência com **Bootstrap, React, Django, PostgreSQL e SQLite**, o que me permite navegar pelo universo das tecnologias ed back-end e front-end.  
 
 🌱 Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento. Vamos construir algo incrível juntos? 🚀  
 
 ---
 
-### 🛠 **Ferramentas de Desenvolvimento**
-Aqui estão as ferramentas que utilizo para criar e gerenciar meus projetos:  
-- **Front-end**: Bootstrap, React  
-- **Back-end**: Django  
-- **Banco de Dados**: PostgreSQL, SQLite  
-
----
-
 ### 📊 **Estatísticas do GitHub**
-<div align="left">
+<div align="center">
   <a href="https://github.com/Captain-not-so-obvious">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Captain-not-so-obvious&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captain-not-so-obvious&layout=compact&langs_count=7&theme=synthwave"/>
