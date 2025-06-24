@@ -1,7 +1,7 @@
 # 🖖 **Olá!** 
 ## Eu sou o Fillipe! ✌
 
-💻 Sou apaixonado por tecnologia e por aprender coisas novas todos os dias. Minha jornada me levou a explorar várias linguagens e ferramentas, e atualmente trabalho com **HTML, CSS, JavaScript, Python, COBOL, Ruby e C++**.  
+💻 Sou apaixonado por tecnologia e por aprender coisas novas todos os dias. Minha jornada me levou a explorar várias linguagens e ferramentas, e atualmente trabalho com **HTML, CSS, JavaScript, Python e Ruby**.  
 
 ✨ Além disso, tenho experiência com **Bootstrap, React, Django, PostgreSQL e SQLite**, o que me permite navegar pelo universo das tecnologias ed back-end e front-end.  
 
