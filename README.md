@@ -3,7 +3,7 @@
 
 💻 Sou apaixonado por tecnologia e por aprender coisas novas todos os dias. Minha jornada me levou a explorar várias linguagens e ferramentas, e atualmente trabalho com **HTML, CSS, JavaScript, Python e Ruby**.  
 
-✨ Além disso, tenho experiência com **Bootstrap, React, Django, PostgreSQL e SQLite**, o que me permite navegar pelo universo das tecnologias ed back-end e front-end.  
+✨ Além disso, tenho experiência com **Bootstrap, React, Django, PostgreSQL e SQLite**, o que me permite navegar pelo universo das tecnologias de back-end e front-end.  
 
 🌱 Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento. Vamos construir algo incrível juntos? 🚀  
 
