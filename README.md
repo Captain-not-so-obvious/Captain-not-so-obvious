@@ -7,18 +7,6 @@
 
 🌱 Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento. Vamos construir algo incrível juntos? 🚀  
 
----
-
-### 📊 **Estatísticas do GitHub**
-<div align="center">
-  <a href="https://github.com/Captain-not-so-obvious">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Captain-not-so-obvious&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captain-not-so-obvious&layout=compact&langs_count=7&theme=synthwave"/>
-  </a>
-</div>
-
----
-
 ### 💻 **Linguagens e Tecnologias**
 #### **Linguagens que mais utilizo hoje:**
 <div style="display: inline-block"><br>
