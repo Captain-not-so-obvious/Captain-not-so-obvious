@@ -82,4 +82,5 @@ Sou um desenvolvedor focado em unir interfaces dinâmicas a back-ends robustos e
   <a href="mailto:fillipemoreira979@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/eu_sou_o_fillipe/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/22nkaf7cp5g3g4bd5si5ixo7q" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+  <a href="https://fillipe.is-a.dev/" target="_blank"><img src="https://img.shields.io/badge/Meu_Portfólio-4CC9F0?style=for-the-badge&logo=githubpages&logoColor=white" target="_blank"></a>
 </div>
