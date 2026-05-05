@@ -51,14 +51,14 @@ Sou um desenvolvedor focado em unir interfaces dinâmicas a back-ends robustos e
 
 ---
 
-### 📊 Meus Status Code
+### 📊 Meus Status
 
 <div align="center">
   <!-- Trocamos o card principal pelo de "Ofensiva" (Streak) que fica num servidor mais estável -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Captain-not-so-obvious&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%">
   
-  <!-- Mantemos o Top Linguagens, mas forçamos uma atualização de cache com &v=1 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captain-not-so-obvious&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Top Linguagens" width="48%">
+  <!-- Usando um servidor alternativo (mirror) mais estável -->
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Captain-not-so-obvious&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Linguagens" width="48%">
 </div>
 
 ---
